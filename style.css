@@ -1,0 +1,132 @@
+* {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+body {
+	font-size: 18px;
+}
+
+header {
+	background: #ccc;
+	padding: 30px;
+	margin-bottom: 10px;
+	background-color: #777;
+	color: rgb(255,255,255);
+	font-family: sans-serif;
+	border: 2px solid;
+	border-color: rgb(175,0,255);
+}
+
+nav {
+	background: #ccc;
+	padding: 30px;
+	margin-bottom: 20px;
+	background-color: #777;
+	color: rgb(0,0,0);
+	font-family: Arial;
+	border: 2px solid;
+	border-color: rgb(0,200,255);
+}
+
+section {
+	background: #ccc;
+	padding: 20px;
+	margin-bottom: 20px;
+	background-color: #777;
+	color: rgb(255,255,255);
+	font-family: Helvetica;
+	width: 50%;
+	height: 275px;
+	border: 2px solid;
+	border-color: rgb(175,0,255);
+
+}
+
+article {
+	background: #ccc;
+	padding: 6px;
+	background-color: #777;
+	color: rgb(255,255,255);
+	font-family: Helvetica;
+	height: 200px;
+	position: relative;
+	top: 12px;
+	border: 1px solid;
+	border-color: rgb(0,200,255);
+
+}
+
+aside {
+	background: #ccc;
+	background-color: #777;
+	color: rgb(0,0,0);
+	height: 275px;
+	width: 50%;
+	position: relative;
+	left: 630px;
+	bottom: 295px;
+	border: 2px solid;
+	border-color: rgb(0,200,255);
+}
+
+p { 
+	background: #ccc
+	background-color: #777;
+	color: rgb(0,0,0);
+	position: relative;
+	width: 40%;
+	left: 50px;
+	bottom: 573px;
+	font-family: Helvetica;
+
+	 }
+
+h1 {
+	background: #ccc;
+	background-color: rgb(0,0,0);
+	color: rgb(255,255,255);
+	position: relative;
+	left: 45px;
+	bottom: 490px;
+	width: 10%;
+	font-family: Arial;
+	font-size: 18px;
+}
+
+h2 {
+	background: #ccc;
+	background-color: rgb(0,0,0);
+	color: rgb(255,255,255);
+	position: relative;
+	left: 180px;
+	bottom: 526px;
+	width: 10%;
+	font-family: Arial;
+	font-size: 18px;
+
+}
+
+h3 {
+	background: #ccc;
+	background-color: rgb(0,0,0);
+	color: rgb(255,255,255);
+	position: relative;
+	left: 315px;
+	bottom: 565px;
+	width: 20%;
+	font-family: Arial;
+	font-size: 18px;
+}
+
+footer {
+	background: #ccc
+	padding: 30px;
+	margin-top: 10px;
+	color: rgb(255,255,255);
+	border: 2px solid;
+	font-family: sans-serif;
+	border-color: rgb(0,200,255);
+	background-color: #777;
+	
+}
